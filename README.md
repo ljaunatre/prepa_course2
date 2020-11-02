@@ -1,2 +1,2 @@
-# prepa_course2
+# prepa_course
 Created with CodeSandbox
